@@ -1,4 +1,4 @@
-package com.Netcode-user;
+package com.Netcode_user;
 
 /**
  * Hello world!
