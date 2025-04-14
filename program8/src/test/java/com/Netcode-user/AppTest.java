@@ -1,4 +1,5 @@
-package com.Netcode-user;
+package com.netcode_user;  // OR rename to something like com.netcode.user
+
 
 import junit.framework.Test;
 import junit.framework.TestCase;
